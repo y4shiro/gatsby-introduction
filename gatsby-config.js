@@ -5,6 +5,10 @@
  */
 
 module.exports = {
-  /* Your site config here */
+  siteMetadata: {
+    title: "Dev Blog",
+    description: "Gatsby で作成したブログサイトです",
+    author: "y4shiro",
+  },
   plugins: [],
 }
